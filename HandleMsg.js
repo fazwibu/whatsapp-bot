@@ -255,11 +255,11 @@ module.exports = HandleMsg = async (urbae, message) => {
 		const StickerMetadatacrop = { author: authorstc, pack: packstc, keepScale: false }
 
 		// [IDENTIFY]
-		const ownerNumber = "628xx@c.us"
+		const ownerNumber = "6283897465133@c.us"
 		const errorImg = "https://i.ibb.co/DYLd6fk/baukrysie.jpg"
-		const isOwnerBot = ownerNumber.includes(pengirim)
-		const isOwner = ownerNumber.includes(pengirim)
-		const isOwnerB = ownerNumber.includes(pengirim)
+		const isOwnerBot = 6283897465133 .includes(pengirim)
+		const isOwner = 6283897465133 .includes(pengirim)
+		const isOwnerB = 6283897465133 .includes(pengirim)
 		const isBanned = banned.includes(pengirim)
 		const isSimi = simi.includes(chatId)
 		const isNgegas = ngegas.includes(chatId)
